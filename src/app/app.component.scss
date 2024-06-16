@@ -1,0 +1,13 @@
+.imgSec{
+    height: 350px;
+    width: 300px;
+    img{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+}
+
+.isNotAvaible{
+    filter: blur(0.5px)grayscale(1);
+}
